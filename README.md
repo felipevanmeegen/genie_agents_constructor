@@ -20,8 +20,9 @@ Cada estação termina em um único prompt pronto para colar no **Genie Code**, 
 
 1. Abra `index.html` num navegador (ou publique via GitHub Pages — veja abaixo).
 2. Siga as 3 estações na ordem: Tabelas → Relacionamentos → Métricas.
-3. Para tabelas/medidas complexas, use o painel "Análise (IA)": copie o prompt gerado, rode no Copilot ou no Genie Code, cole a resposta de volta.
-4. Copie o prompt final de cada estação e cole no Genie Code da sua sala Genie.
+3. Para tabelas/medidas complexas, use o painel "Análise (IA)": copie o prompt único gerado (cobre todas as tabelas/medidas pendentes de uma vez, pedindo resposta em seções por nome), rode no Copilot ou no Genie Code, cole a resposta completa de volta — o app separa automaticamente qual trecho pertence a qual tabela/medida.
+4. Ao escrever a descrição de uma Example Query, o app avisa se ela ficou longa ou com várias variações entre aspas — títulos longos prejudicam o mecanismo de busca do Genie na hora de escolher qual exemplo usar; prefira uma pergunta única e curta, cobrindo variações na Instructions em vez do título.
+5. Copie o prompt final de cada estação e cole no Genie Code da sua sala Genie.
 
 ## Publicar via GitHub Pages
 
